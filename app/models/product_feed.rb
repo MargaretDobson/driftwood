@@ -1,0 +1,2 @@
+class ProductFeed < ApplicationRecord
+end
