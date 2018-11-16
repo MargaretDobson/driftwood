@@ -1,3 +1,3 @@
 class ProductFeed < ApplicationRecord
-    has_many :ProductFeed
+    has_many :products
 end
